@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: azure;
+}
+
+table{
+    margin-left: 250px;
+
+}
+
+
+table,
+tr,
+th,
+td,
+center {
+    border: 2px solid rgb(0, 98, 255);
+    text-align: center;
+}
